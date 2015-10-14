@@ -1,0 +1,3 @@
+#!/bin/bash
+tesseract $1 /output990/$2
+

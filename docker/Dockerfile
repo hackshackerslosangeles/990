@@ -49,3 +49,4 @@ RUN \
     make training && \
     make training-install
 
+ENV PATH $PATH:/bin990
