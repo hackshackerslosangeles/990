@@ -13,3 +13,11 @@ We will try to automate the process of collecting all available 990s, and then s
 ## Why are we doing this?
 
 This question is often a mystery at the moment. Some nonprofits voluntarily disclose the sources of their funding, but often they do not. If we can fill this gap in available information, we will be making a significant contribution towards transparency of our political system.
+
+## Phase 1 interface
+
+![Simple overview of phase 1 interface](web-1.png)
+
+## Suggested technical solution (very brief)
+
+![Suggsted Technical Solution](tech-1.png)
