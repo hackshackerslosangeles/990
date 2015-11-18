@@ -1,4 +1,4 @@
 #!/bin/bash
-990_pdf_to_jpg docs990/95-4686318_990PF_201312.pdf[19-48] test
+990_pdf_to_jpg docs990/95-4686318_990PF_201312.pdf[18-48] test
 990_jpg_to_txt output990/test-18.jpg 0
 cat output990/0.txt
